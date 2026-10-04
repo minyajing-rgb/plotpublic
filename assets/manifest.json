@@ -1,0 +1,2337 @@
+{
+  "version": 1,
+  "generated_utc": "2026-10-03",
+  "format": "PNG",
+  "asset_count": 179,
+  "assets": [
+    {
+      "path": "assets/production/meta-2026-10-03/001.png",
+      "sha256": "e4c5c0d224e0134a22d4664f5d6b642e7f2962dac960ec488b83ffc2bf641ea2",
+      "bytes": 7785396,
+      "width": 2160,
+      "height": 2700,
+      "status": "used-in-meta",
+      "source_group": "selected-10 Meta ad",
+      "original_filename": "01-good-date-bigtype.png",
+      "note": "",
+      "also_found_as": [
+        {
+          "source_group": "PLOT Meta preparation",
+          "original_filename": "01-good-date-now-what-2160x2700-upscaled.png"
+        }
+      ]
+    },
+    {
+      "path": "assets/production/meta-2026-10-03/002.png",
+      "sha256": "841dbee8248b570fa4df82bb7c127ab02e77a1bb489fa2d6c469ea0842fc09dc",
+      "bytes": 7456036,
+      "width": 2160,
+      "height": 2700,
+      "status": "used-in-meta",
+      "source_group": "selected-10 Meta ad",
+      "original_filename": "02-what-text-bigtype.png",
+      "note": "",
+      "also_found_as": [
+        {
+          "source_group": "PLOT Meta preparation",
+          "original_filename": "02-what-does-that-text-mean-2160x2700-upscaled.png"
+        }
+      ]
+    },
+    {
+      "path": "assets/production/meta-2026-10-03/003.png",
+      "sha256": "bd66f79faf0b18c6fef1689084c696b68358d5da22bab6ea4ee3b2377a23f557",
+      "bytes": 7892647,
+      "width": 2160,
+      "height": 2700,
+      "status": "used-in-meta",
+      "source_group": "selected-10 Meta ad",
+      "original_filename": "03-spark-or-moment.png",
+      "note": "",
+      "also_found_as": [
+        {
+          "source_group": "PLOT Meta preparation",
+          "original_filename": "03-is-it-a-spark-2160x2700-upscaled.png"
+        }
+      ]
+    },
+    {
+      "path": "assets/production/meta-2026-10-03/004.png",
+      "sha256": "1d8e06fee1f211cdd7b870c1fd8ef8ccc37e646d1c8ee80b37468ccb7b56d3b8",
+      "bytes": 7071451,
+      "width": 2160,
+      "height": 2700,
+      "status": "used-in-meta",
+      "source_group": "selected-10 Meta ad",
+      "original_filename": "04-people-over-overthinking.png",
+      "note": "",
+      "also_found_as": [
+        {
+          "source_group": "PLOT Meta preparation",
+          "original_filename": "plot-brand-feed-4x5-2160x2700.png"
+        }
+      ]
+    },
+    {
+      "path": "assets/production/meta-2026-10-03/005.png",
+      "sha256": "61336c2cbc1fafcd76a9c9ef2beaa1cda0e8a90fb65f81431128993457d18d79",
+      "bytes": 7049768,
+      "width": 2160,
+      "height": 2700,
+      "status": "used-in-meta",
+      "source_group": "selected-10 Meta ad",
+      "original_filename": "05-good-date-scene.png",
+      "note": "",
+      "also_found_as": [
+        {
+          "source_group": "PLOT Meta preparation",
+          "original_filename": "plot-date-feed-4x5-2160x2700.png"
+        }
+      ]
+    },
+    {
+      "path": "assets/production/meta-2026-10-03/006.png",
+      "sha256": "1da1b49023e98e184ba8515529e1c53a0f8d879e4b5c8e16091be56ef3cc24fa",
+      "bytes": 5845598,
+      "width": 2160,
+      "height": 2700,
+      "status": "used-in-meta",
+      "source_group": "selected-10 Meta ad",
+      "original_filename": "06-mixed-signals.png",
+      "note": "",
+      "also_found_as": [
+        {
+          "source_group": "PLOT Meta preparation",
+          "original_filename": "plot-signals-feed-4x5-2160x2700.png"
+        }
+      ]
+    },
+    {
+      "path": "assets/production/meta-2026-10-03/007.png",
+      "sha256": "65efb387679213182cb4b2ddeb4cf71e099451fafc1ad107b05f3e71ac711e28",
+      "bytes": 1821878,
+      "width": 1122,
+      "height": 1402,
+      "status": "used-in-meta",
+      "source_group": "selected-10 Meta ad",
+      "original_filename": "07-great-date-editorial.png",
+      "note": "",
+      "also_found_as": [
+        {
+          "source_group": "PLOT Meta preparation",
+          "original_filename": "plot-date-scene-a-v2.png"
+        },
+        {
+          "source_group": "PLOT ChatGPT image generation",
+          "original_filename": "exec-78b1fc26-c3ec-4f7d-9cd4-2a18c4a143ef.png"
+        }
+      ]
+    },
+    {
+      "path": "assets/production/meta-2026-10-03/008.png",
+      "sha256": "b428a4756545a328500ffeacbec6aad03fd49c1af22fd2fcc461bc413df0380b",
+      "bytes": 1877591,
+      "width": 1122,
+      "height": 1402,
+      "status": "used-in-meta",
+      "source_group": "selected-10 Meta ad",
+      "original_filename": "08-read-the-vibe.png",
+      "note": "AI-edited",
+      "also_found_as": [
+        {
+          "source_group": "PLOT ChatGPT image edit",
+          "original_filename": "exec-782d67bf-da16-44c0-b5c3-2a3d4dac8099.png"
+        }
+      ]
+    },
+    {
+      "path": "assets/production/meta-2026-10-03/009.png",
+      "sha256": "6b21e4e70dc6e06a729a256cd93dd36cc8be42f5f86339ea682f0e2a23e6f07d",
+      "bytes": 1963797,
+      "width": 1122,
+      "height": 1402,
+      "status": "used-in-meta",
+      "source_group": "selected-10 Meta ad",
+      "original_filename": "09-read-the-signal.png",
+      "note": "AI-edited",
+      "also_found_as": [
+        {
+          "source_group": "PLOT ChatGPT image edit",
+          "original_filename": "exec-3dd96cb7-a354-4266-9b97-1ff1c6121891.png"
+        }
+      ]
+    },
+    {
+      "path": "assets/production/meta-2026-10-03/010.png",
+      "sha256": "7648fe795ce1aba82816e605473c00c82044b34d3e2ff8b5ccfa7ad878fcc1aa",
+      "bytes": 1813837,
+      "width": 1122,
+      "height": 1402,
+      "status": "used-in-meta",
+      "source_group": "selected-10 Meta ad",
+      "original_filename": "10-mixed-signals-perspective.png",
+      "note": "",
+      "also_found_as": [
+        {
+          "source_group": "PLOT Meta preparation",
+          "original_filename": "plot-mixed-signals-b-v2.png"
+        },
+        {
+          "source_group": "PLOT ChatGPT image generation",
+          "original_filename": "exec-eb589dd1-c675-4c56-a035-427dd135106f.png"
+        }
+      ]
+    },
+    {
+      "path": "assets/candidates/chatgpt-edits/001.png",
+      "sha256": "bbdce30fe7908fac0e000e576afece8a2006e8bdad000262c5d7d91276faaca2",
+      "bytes": 1999193,
+      "width": 1122,
+      "height": 1402,
+      "status": "needs-review",
+      "source_group": "ChatGPT edit of Meta 007",
+      "original_filename": "exec-c7111cb5-bd9d-40d4-a448-131058b2f63f.png",
+      "note": "1122x1402; edit preserved layout but did not increase resolution. Do not replace production without visual approval.",
+      "also_found_as": [
+        {
+          "source_group": "PLOT ChatGPT image edit",
+          "original_filename": "exec-c7111cb5-bd9d-40d4-a448-131058b2f63f.png"
+        }
+      ],
+      "derived_from": "assets/production/meta-2026-10-03/007.png"
+    },
+    {
+      "path": "assets/library/brand-boards/001.png",
+      "sha256": "69c425469d49cb3211acb262a9fe11e5534b1c83e3dc33920588106f2ebe4a75",
+      "bytes": 1996132,
+      "width": 1536,
+      "height": 1024,
+      "status": "reference",
+      "source_group": "PLOT local brand board",
+      "original_filename": "PLOT品牌智能关系设计展板-2.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/brand-boards/002.png",
+      "sha256": "08aa5ad233854d55cd2e569dea0c06ec730caa7dc85b31678bfe8d5d7d7fddbb",
+      "bytes": 2035265,
+      "width": 1214,
+      "height": 1295,
+      "status": "reference",
+      "source_group": "PLOT local brand board",
+      "original_filename": "PLOT品牌灵感与关系生活图鉴-1.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/brand-boards/003.png",
+      "sha256": "d31a61dc48dff598bb0445124ff590c5dd35050c6f86c800ac318229f0e65a84",
+      "bytes": 2089487,
+      "width": 1536,
+      "height": 1024,
+      "status": "reference",
+      "source_group": "PLOT local brand board",
+      "original_filename": "霓虹粉黑风格的PLOT品牌拼贴板-3.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/001.png",
+      "sha256": "cdbcbc56a328a60b9f3738bac0351091a040273f4c476b9129efd140f0f31f9f",
+      "bytes": 2008574,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "1084d16b-a5a5-41c9-9901-2c652682f2e8.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/002.png",
+      "sha256": "75540589cd89729b7c2d47c78dc7ba70d1e7637ee56230622fb03577427258f9",
+      "bytes": 1926635,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "7906ce6e-c97d-4d0d-a908-20f2b0b49cff.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/003.png",
+      "sha256": "76c782108a5f4f79ddb892b585ba341d3fb45f57b1cbeddbd93c36a395a84c0e",
+      "bytes": 2084287,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_36_46-1.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/004.png",
+      "sha256": "52a22bcaa6e20826e9a8a9c1fa561268ecbd23c839cd8d0ea0c87aa3d69151dc",
+      "bytes": 2238131,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_36_48-2.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/005.png",
+      "sha256": "cb98526227d452d84a0560e28d7cf9aacf0f09b4c240a7c63322cf71ead20376",
+      "bytes": 1930376,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_36_50-3.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/006.png",
+      "sha256": "bf8c9d039758f774c9b98c4ccadcef611d8d86b35133352bbd29937d4f53994e",
+      "bytes": 2079833,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_36_52-4.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/007.png",
+      "sha256": "66b12c0ea5412f53e8c3a5b88e5e0ffc8a2d5c047016508ebc667b603bb5212f",
+      "bytes": 1998470,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_39_10-1.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/008.png",
+      "sha256": "22b4e1f0113fd6081be356025455f6ddd9f6c9f7bbe0714e435c10101d0e9c14",
+      "bytes": 2199704,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_39_11-2.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/009.png",
+      "sha256": "41d10812a6299f4b37e1c7b25d419f5bed35dcc53e8aaa8f8e2ec239491533db",
+      "bytes": 1967117,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_39_15-3.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/010.png",
+      "sha256": "37d5add1919a0c4422649baf322e80efcba43c398153926242d31887b866d69a",
+      "bytes": 1941847,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_39_22-1.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/011.png",
+      "sha256": "ea8051e6497974105a5f4d7166d660a817bc901510a7d5f7b9d57deac628dfaa",
+      "bytes": 1989763,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_39_25-2.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/012.png",
+      "sha256": "e38ac770316af46d7e3a5f05d8621b7eda655cf6206613ca6863031f11fa5ee4",
+      "bytes": 1706472,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_39_26-3.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/013.png",
+      "sha256": "3d0e90a93492bc7d659a83b328ba823f5443d38982c978abbfac7b13911dab91",
+      "bytes": 2059443,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_39_27-4.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/014.png",
+      "sha256": "0747c7586bdb3c10ce6773a9c27c13b98ac907546559914e2f4cfd8ed5c5cb30",
+      "bytes": 1908435,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_40_34-1.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/015.png",
+      "sha256": "f482ae16c01e2037ed3ab0d79ed89557f3c38777e85d013d64209c828d5aa1e8",
+      "bytes": 1803782,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_40_36-2.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/016.png",
+      "sha256": "e3c12beb997bfe8c20ed6e23d7ca63aa3bc487342a8552f401c19441f4db02db",
+      "bytes": 1930263,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_40_39-3.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/017.png",
+      "sha256": "b254633f310e51158e0694e5fc1134ad9999a3a67bf3d0ffc486b59a3e692054",
+      "bytes": 2225635,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_40_41-4.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/018.png",
+      "sha256": "d723bce5deab6b671c1891b94c4f18bb0588ad64dabaab21c1757e5a9acb1381",
+      "bytes": 1907562,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_40_44-5.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/019.png",
+      "sha256": "4657c4823326124307f2bc58768aae0086fea9d89a475358359c9eff54ecb623",
+      "bytes": 1950833,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 14_25_47-1.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/020.png",
+      "sha256": "708ea255bd48f0a3fce15f34a31821d9235808a9875c7e43254f24cfb4055a9c",
+      "bytes": 1902677,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 14_25_48-2.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/021.png",
+      "sha256": "0ecace9d48bf644baca231b87c7d8fcc3a26f439ab942e63482cf0e1ae66fbb8",
+      "bytes": 2009916,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 14_25_50-3.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/022.png",
+      "sha256": "9edb348d5c06704f7f19d2b36cd8445fae3d31c8ec8bffc2405f5a913104f162",
+      "bytes": 2191525,
+      "width": 1491,
+      "height": 1055,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 14_25_51-4.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/023.png",
+      "sha256": "35e2be6880e22f86e2e964e81128e59839756b6bac7b2f0fd8615fceefa6cce4",
+      "bytes": 2068529,
+      "width": 1491,
+      "height": 1055,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 14_25_53-5.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/024.png",
+      "sha256": "8c7e22a1676a64ed11bb7894991b2e57b5596fa95aebf0a9e07da80e16371137",
+      "bytes": 2135352,
+      "width": 1491,
+      "height": 1055,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 14_25_57-6.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/025.png",
+      "sha256": "b441ab1ec7e9fe65be33b4a462c0290484253496774cac1954c81bd59ea451a2",
+      "bytes": 1212701,
+      "width": 1254,
+      "height": 1254,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 16_27_18-1.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/026.png",
+      "sha256": "2ff3eee077a9fdd1b47af34c79c770c30e6316d7e95681e626a815d17292a858",
+      "bytes": 1039303,
+      "width": 1573,
+      "height": 1000,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 16_27_20-2.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/027.png",
+      "sha256": "b2c939e606fb1f39669189c2e9e631d1f40e7e98fe966b5ee3942e62bf8895da",
+      "bytes": 1593751,
+      "width": 1573,
+      "height": 1000,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 16_27_22-3.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/028.png",
+      "sha256": "1e4c7ff612c7fcf25f1be035a2b53ae3be0cedd73d10ee90d637c0bdc29b3390",
+      "bytes": 1909359,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 16_27_24-4.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/029.png",
+      "sha256": "4841b72cb3a07346656ee7d9de7da1826e395c99425172caf71b24d1aa8848be",
+      "bytes": 1923474,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 16_27_26-5.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/030.png",
+      "sha256": "74b3bf9fcbd2a22ecfc5bfaa1da4c4d5b93ae50029554a84c2314493ea4915b3",
+      "bytes": 1822355,
+      "width": 1254,
+      "height": 1254,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 16_27_30-6.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/031.png",
+      "sha256": "19f92f64f0ff1c004a27c9b3744a308bc21346be5e6e442119f52ac411b3383d",
+      "bytes": 1572230,
+      "width": 1254,
+      "height": 1254,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月2日 16_27_32-7.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/032.png",
+      "sha256": "ebc6cd373f2d5ce14bea51ef04cd43f72b1de965ee9be2e072538f0d52d5c514",
+      "bytes": 2018658,
+      "width": 941,
+      "height": 1672,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月3日 19_28_06-1.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/033.png",
+      "sha256": "6babcbe0148fa6b7d216fc09534d0d8ff748373eda399e63b92938fbd329cb87",
+      "bytes": 1996947,
+      "width": 941,
+      "height": 1672,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月3日 19_28_07-2.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/034.png",
+      "sha256": "b94b1335efc25a57f062c35adce91b860a0c98e7291dc9653780931832fb9da3",
+      "bytes": 2112108,
+      "width": 941,
+      "height": 1672,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月3日 19_28_08-3.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/035.png",
+      "sha256": "3b61ef463e2c2680baeb9dec3f19649ecd17231ceeba9a2e8ab0e0db60ab64f1",
+      "bytes": 1981665,
+      "width": 941,
+      "height": 1672,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月3日 19_28_15-4.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/036.png",
+      "sha256": "f7c9b4f9f40a9734e1625a6e82a0c56ca849a183f2bda112fbb44d50d78dda91",
+      "bytes": 1838376,
+      "width": 941,
+      "height": 1672,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月3日 19_28_16-5.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/037.png",
+      "sha256": "2c7f52b6eb9f007fbcfa66e8bc114b5bad620ff805810cf07ed53499548bd2bc",
+      "bytes": 1910072,
+      "width": 941,
+      "height": 1672,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月3日 19_28_17-6.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/038.png",
+      "sha256": "32ffd89a89ff665c9e121f1b7a0aa6ded99ddf957e118769548418aa21ef6338",
+      "bytes": 2028556,
+      "width": 941,
+      "height": 1672,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月3日 19_28_18-7.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/039.png",
+      "sha256": "ed9ee4c09d47b0739f4ffe8b7345b824866c900653b1b2c6d47dc6abfb9e2cae",
+      "bytes": 1957800,
+      "width": 941,
+      "height": 1672,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月3日 19_28_19-8.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/040.png",
+      "sha256": "6a9733c109c698ead2e9028160a7bb021dbb6d4a2c4fb8c0f011c3ef5842a103",
+      "bytes": 2175441,
+      "width": 941,
+      "height": 1672,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月3日 22_20_15-1.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/041.png",
+      "sha256": "1d3e05b390602914a295445738315288e8d471f88d855e440faa69a4d806c08a",
+      "bytes": 2249735,
+      "width": 941,
+      "height": 1672,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月3日 22_20_15-2.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/042.png",
+      "sha256": "f61aef064c550a3c7486b360a0ec106429f4a59388835bdd54869d2af024f60c",
+      "bytes": 2130980,
+      "width": 941,
+      "height": 1672,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月3日 22_20_17-3.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/043.png",
+      "sha256": "d1fe47b7d9197fde3208a067e9d43e5d75314812ee971cf31a820a0cb795d58c",
+      "bytes": 2117290,
+      "width": 941,
+      "height": 1672,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月3日 22_20_20-4.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/044.png",
+      "sha256": "5c217a62bf9351ec249c572eea2e345c54b17b168bdca1035582ad04ee6cdf37",
+      "bytes": 2144193,
+      "width": 941,
+      "height": 1672,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月3日 22_20_24-5.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/045.png",
+      "sha256": "549c040a6866c5d89f2f99dda5a51a4aa087aa663cccf7019c97e3437fb1e62a",
+      "bytes": 2085284,
+      "width": 941,
+      "height": 1672,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月3日 22_20_28-6.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/046.png",
+      "sha256": "9cac910d8ef6118873b959fc90fa79943121878eb7581a5f92e9a4fe2d8ed928",
+      "bytes": 2116452,
+      "width": 941,
+      "height": 1672,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ChatGPT 图像 2026年10月3日 22_20_32-7.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/047.png",
+      "sha256": "e292feba881d1c666c314948d604ce892d47cc6647df3ee355a55f55ccb7f69b",
+      "bytes": 2086120,
+      "width": 1536,
+      "height": 1024,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "PLOT：关系智略与霓虹心事-2.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/048.png",
+      "sha256": "0f428ed5a77ff9803c490d83404ce25627dbaa87abcc0018fa4b36c13b2f2409",
+      "bytes": 2008502,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "b3975e81-a97c-48ee-9515-b0f265d3328a.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/049.png",
+      "sha256": "adcfd71d4e075092a7870a4ebd704583efb1509cf4a65acd6b7c8596f1fce0ee",
+      "bytes": 1951819,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "de664bef-fe9b-4ffe-806a-deb42b8a1712.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/050.png",
+      "sha256": "8f457f5a191514e55394b188ad97d87780d9c2bf61306497ea03d1f0a22827e3",
+      "bytes": 1842285,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "eacaa738-7d2f-441a-8fbc-1621d212c507.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/051.png",
+      "sha256": "ce5f3198b2ba78019decfb53412f212da41a54e97eb980b97fedfc0489b3aecb",
+      "bytes": 1910766,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "ee8a03d3-5161-41d3-992d-bb2f644d8e18.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/052.png",
+      "sha256": "683520d693b0faf1ad9e670827ebee5d6b6b42e8731a10bf69734059e507775e",
+      "bytes": 1933133,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "plot-date-scene-a.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/053.png",
+      "sha256": "73118b47b5692324148b4d0d8ff08d8fb696a8229d14c26f92c04cddad96e0bf",
+      "bytes": 1918435,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "plot-mixed-signals-b.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/054.png",
+      "sha256": "cd400e0f5ab47595878cec88012e914769252c9b0abb385167416e260ca44ed7",
+      "bytes": 2070213,
+      "width": 1536,
+      "height": 1024,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "粉黑霓虹关系智能品牌界面拼贴-1.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/055.png",
+      "sha256": "edb72181b0b8ea9735642c780664c575e0a0da90de5d5c3cdc133a8d18a66fee",
+      "bytes": 2258653,
+      "width": 1536,
+      "height": 1024,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "霓虹粉色关系洞察品牌拼贴展板-5.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/056.png",
+      "sha256": "b6c5b427d17f397b4a24bde6bb533f5fa14fa8d7a0c70c3926c50c366f68d15f",
+      "bytes": 2021101,
+      "width": 1536,
+      "height": 1024,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "霓虹粉黑关系分析仪表盘-4.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/ad-explorations/057.png",
+      "sha256": "ee7e5078fa1e56442aa469e40800f2f692f71dbffc85453e5350a65f66b0a68b",
+      "bytes": 2051406,
+      "width": 1536,
+      "height": 1024,
+      "status": "exploration",
+      "source_group": "PLOT local ad exploration",
+      "original_filename": "霓虹粉黑关系智能品牌概念板-3.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/adult/001.png",
+      "sha256": "de154a805101022774f436aafeb91b77189788eab2851557c4692408971c41f2",
+      "bytes": 1843885,
+      "width": 1055,
+      "height": 1491,
+      "status": "exploration",
+      "source_group": "PLOT local plot成人卡",
+      "original_filename": "ChatGPT 图像 2026年10月2日 08_43_29-1.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/adult/002.png",
+      "sha256": "4b500eef2bc8bd03ecd4192fb5be4e758a4543738a97cd4c471b0f4d76e19ece",
+      "bytes": 1792822,
+      "width": 1055,
+      "height": 1491,
+      "status": "exploration",
+      "source_group": "PLOT local plot成人卡",
+      "original_filename": "ChatGPT 图像 2026年10月2日 08_43_33-2.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/adult/003.png",
+      "sha256": "811e0cd109bed614e6a8b1bc24ddefa2831243facbfaf4eb47e360440e9157b2",
+      "bytes": 1841817,
+      "width": 1055,
+      "height": 1491,
+      "status": "exploration",
+      "source_group": "PLOT local plot成人卡",
+      "original_filename": "ChatGPT 图像 2026年10月2日 08_43_42-3.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/adult/004.png",
+      "sha256": "6edf8064a8384484026cb1a140b7df1f5f3df03fb529161f16cb0a929cf259d3",
+      "bytes": 1764362,
+      "width": 1055,
+      "height": 1491,
+      "status": "exploration",
+      "source_group": "PLOT local plot成人卡",
+      "original_filename": "ChatGPT 图像 2026年10月2日 08_43_47-4.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/adult/005.png",
+      "sha256": "d75ac8c4de41953673e653c2e67215aa0c2565b8e9a6dc225d60296915990c58",
+      "bytes": 1739357,
+      "width": 1055,
+      "height": 1491,
+      "status": "exploration",
+      "source_group": "PLOT local plot成人卡",
+      "original_filename": "ChatGPT 图像 2026年10月2日 08_43_50-5.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/adult/006.png",
+      "sha256": "8a4b4a48144ca37df84349024566c3e70eb42a8a584aa5cd65a42c9cc1e24b3e",
+      "bytes": 1791298,
+      "width": 1055,
+      "height": 1491,
+      "status": "exploration",
+      "source_group": "PLOT local plot成人卡",
+      "original_filename": "ChatGPT 图像 2026年10月2日 08_43_54-6.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/single/001.png",
+      "sha256": "14a442235a12cf62061a5085f929fe329523ba93dad2d57ad129c235564c141f",
+      "bytes": 1750400,
+      "width": 1055,
+      "height": 1491,
+      "status": "exploration",
+      "source_group": "PLOT local plot小卡单面",
+      "original_filename": "ChatGPT 图像 2026年10月2日 09_16_36-1.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/single/002.png",
+      "sha256": "81807619c478b2e4846c6b3fd44df0e9825c31b01905913f8f6537ea2bb88b16",
+      "bytes": 1798300,
+      "width": 1055,
+      "height": 1491,
+      "status": "exploration",
+      "source_group": "PLOT local plot小卡单面",
+      "original_filename": "ChatGPT 图像 2026年10月2日 09_16_37-2.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/single/003.png",
+      "sha256": "be17571e282cb5ab6b4d24cc3ce79d108d31c6af5d70f29f8a2f9131810542b7",
+      "bytes": 1786515,
+      "width": 1055,
+      "height": 1491,
+      "status": "exploration",
+      "source_group": "PLOT local plot小卡单面",
+      "original_filename": "ChatGPT 图像 2026年10月2日 09_16_38-3.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/single/004.png",
+      "sha256": "d902476b3af66317fe7a26286156ae35fab6106023162364599f3a8e3a25a9e5",
+      "bytes": 1757927,
+      "width": 1055,
+      "height": 1491,
+      "status": "exploration",
+      "source_group": "PLOT local plot小卡单面",
+      "original_filename": "ChatGPT 图像 2026年10月2日 09_16_39-4.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/single/005.png",
+      "sha256": "bd79b7143a92d318ce4bb190703d5d222d80e5a182d0e3549d936b4de8c59c39",
+      "bytes": 1702479,
+      "width": 1055,
+      "height": 1491,
+      "status": "exploration",
+      "source_group": "PLOT local plot小卡单面",
+      "original_filename": "ChatGPT 图像 2026年10月2日 09_16_41-5.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/single/006.png",
+      "sha256": "9f43b0e6b001520e3740db5912cf2a8f2928c095e0931a252129bcb7473c4b34",
+      "bytes": 1801911,
+      "width": 1055,
+      "height": 1491,
+      "status": "exploration",
+      "source_group": "PLOT local plot小卡单面",
+      "original_filename": "ChatGPT 图像 2026年10月2日 09_16_42-6.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/single/007.png",
+      "sha256": "d53268fd57e1a4b6a616189ab4f1b769b937777182dbb7fc9df097c8505fb8fd",
+      "bytes": 1750941,
+      "width": 1055,
+      "height": 1491,
+      "status": "exploration",
+      "source_group": "PLOT local plot小卡单面",
+      "original_filename": "ChatGPT 图像 2026年10月2日 09_16_43-7.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/single/008.png",
+      "sha256": "0806319ec149d4e2bb2295965778f71f4821866b1f1d21c780854131c4f5d2b2",
+      "bytes": 1779215,
+      "width": 1055,
+      "height": 1491,
+      "status": "exploration",
+      "source_group": "PLOT local plot小卡单面",
+      "original_filename": "ChatGPT 图像 2026年10月2日 09_16_44-8.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/single/009.png",
+      "sha256": "d6165afd5e89ef2d355312118a6958cbfe4cafe9455ea4fed65fa64b816a4755",
+      "bytes": 1352807,
+      "width": 1055,
+      "height": 1491,
+      "status": "exploration",
+      "source_group": "PLOT local plot小卡单面",
+      "original_filename": "ChatGPT 图像 2026年10月2日 09_16_45-9.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/double/001.png",
+      "sha256": "338b52200329211dbd98aabe22c527f64544d4337e5952c92083dfc1246114a5",
+      "bytes": 1479277,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local plot小卡dueFace",
+      "original_filename": "ChatGPT 图像 2026年10月2日 09_14_41-1.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/double/002.png",
+      "sha256": "098b361fe181b3c62ec0c6dc240c996c623337284345514d63fb4e2e7b5e41ac",
+      "bytes": 1578849,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local plot小卡dueFace",
+      "original_filename": "ChatGPT 图像 2026年10月2日 09_14_42-2.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/double/003.png",
+      "sha256": "1d4bfebddd540fe1830eb89bc3fc69975364a99dab29bb47a8b5e5e901dcada1",
+      "bytes": 1586695,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local plot小卡dueFace",
+      "original_filename": "ChatGPT 图像 2026年10月2日 09_14_43-3.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/double/004.png",
+      "sha256": "9e1e762979ef0c05ccedbc968d8503a91f387174128369d0a3859837f91f0ded",
+      "bytes": 1555201,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local plot小卡dueFace",
+      "original_filename": "ChatGPT 图像 2026年10月2日 09_14_44-4.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/double/005.png",
+      "sha256": "35583022585c17081a280f9ea2e1896cbbc2fadbe25e578d3f910621f78a5cee",
+      "bytes": 1562064,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local plot小卡dueFace",
+      "original_filename": "ChatGPT 图像 2026年10月2日 09_14_45-5.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/double/006.png",
+      "sha256": "a8d9852e10017444ddc9b0c5c1f0cd3ff904006ec0af265cc6cae1f95b1983d2",
+      "bytes": 1560856,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local plot小卡dueFace",
+      "original_filename": "ChatGPT 图像 2026年10月2日 09_14_46-6.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/double/007.png",
+      "sha256": "c8d0d42d50e6c399875999898d3b6769c2a2da461ab56570afcc594fa2da3424",
+      "bytes": 1594271,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local plot小卡dueFace",
+      "original_filename": "ChatGPT 图像 2026年10月2日 09_14_47-7.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/double/008.png",
+      "sha256": "ad26078498889c0c8fc6b7ab964a4399d4d4396f966d39dcaec6776d95101b88",
+      "bytes": 1654495,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local plot小卡dueFace",
+      "original_filename": "ChatGPT 图像 2026年10月2日 09_14_48-8.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/cards/double/009.png",
+      "sha256": "749f09cce7f685183f9da1542687c00ef450d17c2d5cc0f3cc629de4a322ed99",
+      "bytes": 2067090,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local plot小卡dueFace",
+      "original_filename": "ChatGPT 图像 2026年10月2日 09_14_50-9.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/animal-boards/001.png",
+      "sha256": "8376bac170a417020a458546c7a7c0e50b6b9de2e435d6cb67f7f308d8b2fcbc",
+      "bytes": 2197924,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local animal character board",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_19_28-1.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/animal-boards/002.png",
+      "sha256": "c54b27273160997e62a25616d5f49da67244f6e56d8f2d7a862ce55f2869729e",
+      "bytes": 2116356,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local animal character board",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_19_34-2.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/animal-boards/003.png",
+      "sha256": "a2509c48bc201003d455e2c9be6d5a875675f35c6227b048c2f924cab540a324",
+      "bytes": 2155985,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local animal character board",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_19_41-3.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/animal-boards/004.png",
+      "sha256": "186c1f59308167c55951390b67b5636a2b8e3bf4da318e9986bf6a68a882d027",
+      "bytes": 2233282,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local animal character board",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_19_43-4.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/animal-boards/005.png",
+      "sha256": "c43ccf1047c968901776d1083d5ccb2f96a6aed41a9c464e4e214790101d13cf",
+      "bytes": 2300271,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT local animal character board",
+      "original_filename": "ChatGPT 图像 2026年10月2日 13_19_51-5.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/meta-prep/001.png",
+      "sha256": "e26e0d0d16de27bbd56f44e6892a3971b02159a25cd1ffcc129522f3f55a803d",
+      "bytes": 3724923,
+      "width": 1440,
+      "height": 2560,
+      "status": "exploration",
+      "source_group": "PLOT Meta preparation",
+      "original_filename": "plot-signals-story-9x16-1440x2560.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/meta-prep/002.png",
+      "sha256": "68a1eeed4f9a2b178536a232ecee3a7799b05fc8e34e55efbd108965452e2454",
+      "bytes": 1809019,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT Meta preparation",
+      "original_filename": "01-good-date-now-what-native.png",
+      "note": "",
+      "also_found_as": [
+        {
+          "source_group": "PLOT ChatGPT image generation",
+          "original_filename": "exec-1d9af022-40bd-459f-8fdf-a612c0176e58.png"
+        }
+      ]
+    },
+    {
+      "path": "assets/library/meta-prep/003.png",
+      "sha256": "2443d0026cf5ee4f80be71c37b26c316926df1c477e66ceb96cd93aa905aebfe",
+      "bytes": 1703169,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT Meta preparation",
+      "original_filename": "02-what-does-that-text-mean-native.png",
+      "note": "",
+      "also_found_as": [
+        {
+          "source_group": "PLOT ChatGPT image generation",
+          "original_filename": "exec-0ef9eeff-6f29-4e3a-8717-1a7b04e7bad8.png"
+        }
+      ]
+    },
+    {
+      "path": "assets/library/meta-prep/004.png",
+      "sha256": "f5bf06b2010c220ada04efd81292fd705dac845fcb7920b1e3e6f4e1c9aa472e",
+      "bytes": 1874135,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT Meta preparation",
+      "original_filename": "03-is-it-a-spark-native.png",
+      "note": "",
+      "also_found_as": [
+        {
+          "source_group": "PLOT ChatGPT image generation",
+          "original_filename": "exec-a65dc61e-1a59-4508-a77c-7789832c2077.png"
+        }
+      ]
+    },
+    {
+      "path": "assets/library/meta-prep/005.png",
+      "sha256": "f2a5c19ca057c76475306a04f48234896588fde02c991a5537905ed58bd29b5d",
+      "bytes": 2401513,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT Meta preparation",
+      "original_filename": "plot-drama-slice-good-vibe-then-quiet.png",
+      "note": "",
+      "also_found_as": [
+        {
+          "source_group": "PLOT ChatGPT image generation",
+          "original_filename": "exec-441d1b3b-0985-4f60-8d56-9aaa546ce932.png"
+        }
+      ]
+    },
+    {
+      "path": "assets/library/meta-prep/006.png",
+      "sha256": "95e1a8c7c5e8c20650aeaa5b5d31f377ced9ae0c7b4da1da84a8e01636a4fdc7",
+      "bytes": 7700369,
+      "width": 1792,
+      "height": 2240,
+      "status": "exploration",
+      "source_group": "PLOT Meta preparation",
+      "original_filename": "plot-gaoding-good-date-radio-silence-1792x2240.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/meta-prep/007.png",
+      "sha256": "1be6e153f5b50bc98e9cccbf0e03cc0f0e7b3f4397eb1b83b2fc4a6f53727ea5",
+      "bytes": 2059713,
+      "width": 1792,
+      "height": 2240,
+      "status": "exploration",
+      "source_group": "PLOT Meta preparation",
+      "original_filename": "plot-gaoding-he-watched-my-story-1792x2240.jpg",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/meta-prep/008.png",
+      "sha256": "7123ed234c4f3258376981ba7535210d316cb794cc970fda0d72935b398fbfce",
+      "bytes": 1545447,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT Meta preparation",
+      "original_filename": "plot-organic-post-good-date-upload.jpg",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/meta-prep/009.png",
+      "sha256": "ab4c03d4f97f19fbe2ac3737b58a54b29e6a942547336e25c3d3eefbba50037e",
+      "bytes": 1944333,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT Meta preparation",
+      "original_filename": "plot-organic-post-good-date.png",
+      "note": "",
+      "also_found_as": [
+        {
+          "source_group": "PLOT ChatGPT image generation",
+          "original_filename": "exec-aff98ee5-dd67-4e02-b9db-ee5005833ad7.png"
+        }
+      ]
+    },
+    {
+      "path": "assets/library/meta-prep/010.png",
+      "sha256": "6abea04ed7562f46ce22253d50ab87f2d95ec57d22539b66ab4ac7df78954e8c",
+      "bytes": 1385212,
+      "width": 1080,
+      "height": 1350,
+      "status": "exploration",
+      "source_group": "PLOT Meta preparation",
+      "original_filename": "plot-date-scene-a-v2-meta.jpg",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/meta-prep/011.png",
+      "sha256": "ccb3438022d67737ae171707a0177706e4646a7e62b50be56e77ce7288e512e1",
+      "bytes": 1179550,
+      "width": 1080,
+      "height": 1350,
+      "status": "exploration",
+      "source_group": "PLOT Meta preparation",
+      "original_filename": "plot-mixed-signals-b-v2-meta.jpg",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/meta-prep/012.png",
+      "sha256": "bc503d4ac7c765c64a852af8bdc07aeb86fcf16a3937afe4f09952557ab7e8ab",
+      "bytes": 1766776,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT Meta preparation",
+      "original_filename": "08-good-date-anonymous.png",
+      "note": "",
+      "also_found_as": [
+        {
+          "source_group": "PLOT ChatGPT image generation",
+          "original_filename": "exec-74ff1888-b428-4f09-a5c9-eca298242d9b.png"
+        }
+      ]
+    },
+    {
+      "path": "assets/library/meta-prep/013.png",
+      "sha256": "75d0f97079dcf382789f80d0e7616b0adbbc3936035138b7d5617c9387007aa5",
+      "bytes": 1281898,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT Meta preparation",
+      "original_filename": "09-mixed-signals-phone.png",
+      "note": "",
+      "also_found_as": [
+        {
+          "source_group": "PLOT ChatGPT image generation",
+          "original_filename": "exec-a95cb374-8ca4-4aa5-b7ad-d7f46d729da1.png"
+        }
+      ]
+    },
+    {
+      "path": "assets/library/meta-prep/014.png",
+      "sha256": "cd2557b8bded8bdc67c6d5acc3b556831a6eaf19bf574289f98751b6ecc3bd4a",
+      "bytes": 1422680,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT Meta preparation",
+      "original_filename": "10-before-you-overthink.png",
+      "note": "",
+      "also_found_as": [
+        {
+          "source_group": "PLOT ChatGPT image generation",
+          "original_filename": "exec-0c0a948d-bd1e-4ab7-a7de-8c3610d8ecfe.png"
+        }
+      ]
+    },
+    {
+      "path": "assets/library/chatgpt-exports/001.png",
+      "sha256": "11ce9866561e61c349f94fa684e6664552f5e58ccb43b36bdafd2524a32206cc",
+      "bytes": 1699943,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT ChatGPT image generation",
+      "original_filename": "exec-0581a2a5-43ea-4358-8a2d-c9d5fc855903.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/chatgpt-exports/002.png",
+      "sha256": "37f0d729e7fb88422bb7ab382e3447b2e7d10b17c51be91a4912ae2687923057",
+      "bytes": 1668538,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT ChatGPT image generation",
+      "original_filename": "exec-12e1773b-d452-4d9a-bd35-72e318de4237.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/chatgpt-exports/003.png",
+      "sha256": "2452ce60997b074052bdc308ef80b1b5e2937c302363e40085ccbfd8d0058d96",
+      "bytes": 2050364,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT ChatGPT image generation",
+      "original_filename": "exec-1666e27d-635c-4abe-a54e-0f0b0819d06c.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/chatgpt-exports/004.png",
+      "sha256": "3ffac781710f71ab1252b7518594cefe2eeb6790c4f2007f5602eedef2614bcb",
+      "bytes": 2070449,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT ChatGPT image generation",
+      "original_filename": "exec-33867c1c-4c67-4f57-a061-8dcd3334aabc.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/chatgpt-exports/005.png",
+      "sha256": "3f5bd313976b8f069834a524196580303b3c53fbe646f1a619839e6c5b543b94",
+      "bytes": 1896179,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT ChatGPT image generation",
+      "original_filename": "exec-c9a54786-8a7e-46e1-9abc-6d6c380c3c0a.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/chatgpt-exports/006.png",
+      "sha256": "3d857c21e4b307a9672759c363624a7516dc97f978ee727dfa5f6b0239c46383",
+      "bytes": 1960439,
+      "width": 1122,
+      "height": 1402,
+      "status": "exploration",
+      "source_group": "PLOT ChatGPT image generation",
+      "original_filename": "exec-d1186abb-1b22-453b-a18c-d2a9e3095bdc.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/chatgpt-exports/007.png",
+      "sha256": "040e81012716d447dce8d11e5797fc7d38ba553728adb9d5c035641ab5e9aad4",
+      "bytes": 2130128,
+      "width": 1536,
+      "height": 1024,
+      "status": "exploration",
+      "source_group": "PLOT ChatGPT image edit",
+      "original_filename": "exec-263dae65-4fdd-4320-a0df-21e0c4bfe750.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/reference/chat-composite-boards/001.png",
+      "sha256": "8279611914ecbf37ddfc77c1b780962456217c5655dd665c9fbd3cf2ee1eed1e",
+      "bytes": 2673144,
+      "width": 1199,
+      "height": 1312,
+      "status": "reference",
+      "source_group": "user-attached ChatGPT conversation board",
+      "original_filename": "codex-clipboard-579dd039-f839-4d5c-b112-64d04c5e39a9.png",
+      "note": "Composite reference; not a separate ad creative",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/reference/chat-composite-boards/002.png",
+      "sha256": "06d28a431a962eb05cdf51454a5681acfa2a24f26dbb41394453daacebc95d29",
+      "bytes": 2407608,
+      "width": 1122,
+      "height": 1402,
+      "status": "reference",
+      "source_group": "user-attached ChatGPT conversation board",
+      "original_filename": "codex-clipboard-bde2fd13-8e5a-48db-8a9f-37d2957a9524.png",
+      "note": "Composite reference; not a separate ad creative",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/reference/chat-composite-boards/003.png",
+      "sha256": "1e823f237b1b035e6bb99ad8cc99f302df28bfdb442fe8cfae4af2817331b84d",
+      "bytes": 2253705,
+      "width": 1122,
+      "height": 1402,
+      "status": "reference",
+      "source_group": "user-attached ChatGPT conversation board",
+      "original_filename": "codex-clipboard-25dd2087-33cc-47ef-a5a2-99db3d531917.png",
+      "note": "Composite reference; not a separate ad creative",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/reference/chat-composite-boards/004.png",
+      "sha256": "2d1d8b67a3b95522bfd410c280ed47c1ab0d52ae3113f87f10ae5bf8b5c1b490",
+      "bytes": 2151539,
+      "width": 1122,
+      "height": 1402,
+      "status": "reference",
+      "source_group": "user-attached ChatGPT conversation board",
+      "original_filename": "codex-clipboard-3bdbc41c-c9e0-4e6a-987b-532823cf1037.png",
+      "note": "Composite reference; not a separate ad creative",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/reference/chat-composite-boards/005.png",
+      "sha256": "1508ffbe3236fbcc65e5fc4f1f4d689e4be5a9d9136685c8215e0b9c22d987c2",
+      "bytes": 1786126,
+      "width": 1122,
+      "height": 1402,
+      "status": "reference",
+      "source_group": "user-attached ChatGPT conversation board",
+      "original_filename": "codex-clipboard-6d0fe17a-0150-41a1-8f48-5be9ac15492e.png",
+      "note": "Composite reference; not a separate ad creative",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/reference/chat-composite-boards/006.png",
+      "sha256": "36f6cf5510588f72c20ef2063369f3f933ccbe4f5ec6d0aa10e403ffbad6106e",
+      "bytes": 2208189,
+      "width": 1122,
+      "height": 1402,
+      "status": "reference",
+      "source_group": "user-attached ChatGPT conversation board",
+      "original_filename": "codex-clipboard-ea520a8e-7219-4cd6-a6fa-6ec7e8fae030.png",
+      "note": "Composite reference; not a separate ad creative",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/reference/chat-composite-boards/007.png",
+      "sha256": "c5dcdfe673807e9c363a48a8f0afb201b72e7cbd7875db0cec3a45d2cb9b2c13",
+      "bytes": 2670152,
+      "width": 1122,
+      "height": 1402,
+      "status": "reference",
+      "source_group": "user-attached ChatGPT conversation board",
+      "original_filename": "codex-clipboard-b7ca1028-45c5-47f6-8938-5deb14b0ed0d.png",
+      "note": "Composite reference; not a separate ad creative",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/reference/chat-composite-boards/008.png",
+      "sha256": "469e6afe7559f18c73b99c8339da20bdc56326819e76537fcfb38d701fdff8e0",
+      "bytes": 2236262,
+      "width": 1122,
+      "height": 1402,
+      "status": "reference",
+      "source_group": "user-attached ChatGPT conversation board",
+      "original_filename": "codex-clipboard-0cfec355-50cd-4dfd-aa87-7270f20afbf1.png",
+      "note": "Composite reference; not a separate ad creative",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/reference/chat-composite-boards/009.png",
+      "sha256": "48b1ee288239ea8dc56cdba9a4f7a23daa82ee4ad38c3fbfe45ed5667ef77e8b",
+      "bytes": 1806596,
+      "width": 1122,
+      "height": 1402,
+      "status": "reference",
+      "source_group": "user-attached ChatGPT conversation board",
+      "original_filename": "codex-clipboard-d426e9d3-481f-46e4-abdb-7f301a339be3.png",
+      "note": "Composite reference; not a separate ad creative",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/reference/chat-composite-boards/010.png",
+      "sha256": "30519145e04a620f50cb6ce7ca56fbf00a0e1105e6f8183bbcc0cc79eaafb217",
+      "bytes": 2212510,
+      "width": 1122,
+      "height": 1402,
+      "status": "reference",
+      "source_group": "user-attached ChatGPT conversation board",
+      "original_filename": "codex-clipboard-f5a92a88-ced8-4bbe-96bd-361ac2540f23.png",
+      "note": "Composite reference; not a separate ad creative",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/reference/chat-composite-boards/011.png",
+      "sha256": "c565ffdd53201f53a29ba236088db0c6d5adecafacec34b9a71051c53fd77171",
+      "bytes": 2289725,
+      "width": 1122,
+      "height": 1402,
+      "status": "reference",
+      "source_group": "user-attached ChatGPT conversation board",
+      "original_filename": "codex-clipboard-9b316577-153a-4fdb-96e3-d4ec28773f6b.png",
+      "note": "Composite reference; not a separate ad creative",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/reference/chat-composite-boards/012.png",
+      "sha256": "8a47c43464738541cad398c2c4887a8c2509693aa97e92e3eb07973db63f70df",
+      "bytes": 2440566,
+      "width": 1122,
+      "height": 1402,
+      "status": "reference",
+      "source_group": "user-attached ChatGPT conversation board",
+      "original_filename": "codex-clipboard-6aad594c-4ba3-474c-8896-a87c84cb7d0f.png",
+      "note": "Composite reference; not a separate ad creative",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/reference/chat-composite-boards/013.png",
+      "sha256": "d588f922fbed5f1da4fcb357ca95cf4750281a88c55e8fef12c537f973c6cc36",
+      "bytes": 1923835,
+      "width": 1122,
+      "height": 1402,
+      "status": "reference",
+      "source_group": "user-attached ChatGPT conversation board",
+      "original_filename": "codex-clipboard-2b3fa69c-1e36-4ced-8abd-b960f7d575e7.png",
+      "note": "Composite reference; not a separate ad creative",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/reference/chat-composite-boards/014.png",
+      "sha256": "d52d639a099419de8c088c24de917f32399f92c75aad059898f92b76e7beb305",
+      "bytes": 2275046,
+      "width": 1122,
+      "height": 1402,
+      "status": "reference",
+      "source_group": "user-attached ChatGPT conversation board",
+      "original_filename": "codex-clipboard-2ddb75bb-d709-4ca4-bd33-9446504f86d1.png",
+      "note": "Composite reference; not a separate ad creative",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/001.png",
+      "sha256": "a4474340cff712805b0bb21d391a6e1c38fe739da68ecee5089e684e8993ebcc",
+      "bytes": 1898684,
+      "width": 1400,
+      "height": 933,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "plot-friends.jpg",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/002.png",
+      "sha256": "db5a22c968d5d87fbeaf027c5238327940c63e6a00d876ff240b20c2eb8746fe",
+      "bytes": 1560725,
+      "width": 1536,
+      "height": 1024,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "plot-night-out-v2.jpg",
+      "note": "",
+      "also_found_as": [
+        {
+          "source_group": "PLOT visual and font specification",
+          "original_filename": "plot-night-out-v2.jpg"
+        }
+      ]
+    },
+    {
+      "path": "assets/library/landing-page/003.png",
+      "sha256": "ebfdc4c72b43fa9a0eded64a270dd2fe583e07a2a56e7a2d362f413c35b04120",
+      "bytes": 789550,
+      "width": 640,
+      "height": 700,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-01-thumb.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/004.png",
+      "sha256": "7c1236f27094d00dfa1a169d549251d3c2ad20b77d4c244b796ee30d64090c29",
+      "bytes": 2246228,
+      "width": 1199,
+      "height": 1312,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-01.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/005.png",
+      "sha256": "76ae7d72a214013b71403f188c9f9b1284de99e9536365bc5f3f93fa59165f18",
+      "bytes": 763145,
+      "width": 640,
+      "height": 800,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-02-thumb.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/006.png",
+      "sha256": "8a718a3209cf672757f87c960054177ac53b661ec2a4e3dfee32ace8548cb26e",
+      "bytes": 1855745,
+      "width": 1122,
+      "height": 1402,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-02.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/007.png",
+      "sha256": "b435a870336b85131a8ab08950d473bc93fdf7706a06c8cdb521f54636685149",
+      "bytes": 588050,
+      "width": 640,
+      "height": 800,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-03-thumb.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/008.png",
+      "sha256": "fbbcee7727291dc4d5a406d351669163aeeeb29297d2222fa80d41d4d89fb9dd",
+      "bytes": 1498705,
+      "width": 1122,
+      "height": 1402,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-03.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/009.png",
+      "sha256": "17be9ed9c5e25d9a3540973b9ff2ed83a7c6bb85da6419cbf266f848cbcf6419",
+      "bytes": 510186,
+      "width": 640,
+      "height": 800,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-04-thumb.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/010.png",
+      "sha256": "6907da934687bf4101b2df78d435194a5b96a0059a7afb9d129b624ade10fa7b",
+      "bytes": 1186317,
+      "width": 1122,
+      "height": 1402,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-04.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/011.png",
+      "sha256": "7c8629a81414788dd4bb93b2737fa6b5cd21857e96fa46f8282f10f7cd6417b4",
+      "bytes": 412882,
+      "width": 640,
+      "height": 800,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-05-thumb.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/012.png",
+      "sha256": "2cfbb9490fa8577afa205fc5de5e5e5cc9d971e6349a068efac222664b2330fd",
+      "bytes": 982907,
+      "width": 1122,
+      "height": 1402,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-05.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/013.png",
+      "sha256": "3815337d77c8ef4bd1c6451eb39d948d371c19f62462768a27a4387a8c73349d",
+      "bytes": 593080,
+      "width": 640,
+      "height": 800,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-06-thumb.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/014.png",
+      "sha256": "d906544bba14e48cad602c104a2d4071b5a3cc5b402cab4e6cb82af262409032",
+      "bytes": 1412678,
+      "width": 1122,
+      "height": 1402,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-06.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/015.png",
+      "sha256": "48e63a4ac4ace24d30031fcd27299125b9424f34fe7b33d4607580ebafc2763b",
+      "bytes": 782773,
+      "width": 640,
+      "height": 800,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-07-thumb.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/016.png",
+      "sha256": "fac3db124201dd6473e04d84b0357ba0dac2a0076d02ebb5315ccf9cd2b9a2aa",
+      "bytes": 2012055,
+      "width": 1122,
+      "height": 1402,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-07.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/017.png",
+      "sha256": "cd000c2b3fa4bf09d76f5c87ec3c733b0c58e521ee3a1fdd9ee79f259c2ec9e3",
+      "bytes": 667873,
+      "width": 640,
+      "height": 800,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-08-thumb.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/018.png",
+      "sha256": "0a26cd6f867b4f16006d24e47ce4298548cdfae53f2858fdefb17cd57ae8951e",
+      "bytes": 1563435,
+      "width": 1122,
+      "height": 1402,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-08.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/019.png",
+      "sha256": "4879e270a35f86bb899b446703b78afd37adf4c0c755af0ca1d307a0bd908307",
+      "bytes": 425015,
+      "width": 640,
+      "height": 800,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-09-thumb.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/020.png",
+      "sha256": "a7e6043d3e94f1c29f2102732d2d2376d7aebdd03f0d355f530c5d354087a352",
+      "bytes": 988513,
+      "width": 1122,
+      "height": 1402,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-09.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/021.png",
+      "sha256": "9b896369167bf265187c94b2c1757aef9d6cd31ba055b2475dd4b2702e1bb75d",
+      "bytes": 628117,
+      "width": 640,
+      "height": 800,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-10-thumb.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/022.png",
+      "sha256": "688f4b60e7e4be6b84dbbccfe57cbb41172cbd5215f3c19f22bc3570cc0bb2a5",
+      "bytes": 1506427,
+      "width": 1122,
+      "height": 1402,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-10.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/023.png",
+      "sha256": "c11eb122de57581383425948883a9efc27eb2206e24c45b7a358e7d217a69e1e",
+      "bytes": 630058,
+      "width": 640,
+      "height": 800,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-11-thumb.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/024.png",
+      "sha256": "ccec33cb790abd9bc256abb3b10d1d775ca9aaca6ff610126617c7ef52db63e2",
+      "bytes": 1541580,
+      "width": 1122,
+      "height": 1402,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-11.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/025.png",
+      "sha256": "eb8b7b203fb29f9122dc79a1b29accf2873b7ffe934c59ca9864547b9f178194",
+      "bytes": 735567,
+      "width": 640,
+      "height": 800,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-12-thumb.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/026.png",
+      "sha256": "323dbaf0247acb9ecee236d9fed79fe92e2dbf0d7a8d8ce987277bb760af660d",
+      "bytes": 1821076,
+      "width": 1122,
+      "height": 1402,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-12.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/027.png",
+      "sha256": "f2ef60e0d87cc581edb16445b1338009da312fc64abca6a99b771e6045b5a00b",
+      "bytes": 572253,
+      "width": 640,
+      "height": 800,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-13-thumb.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/028.png",
+      "sha256": "3d92b9f00bbca1835b0364a476befa6d41c8e231238ee7fcce8f1f0029b32aad",
+      "bytes": 1357524,
+      "width": 1122,
+      "height": 1402,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-13.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/029.png",
+      "sha256": "897568c3b5724c703ccf7a2c2223dc179239e01cf9192995ebea6eae39ae0fd4",
+      "bytes": 644048,
+      "width": 640,
+      "height": 800,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-14-thumb.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/landing-page/030.png",
+      "sha256": "da261425e002635ec40fa30079393352f5f450c7eb2c709be9f29c89c903e561",
+      "bytes": 1548475,
+      "width": 1122,
+      "height": 1402,
+      "status": "site-rendition",
+      "source_group": "PLOT website image",
+      "original_filename": "board-14.webp",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/approved-astro/001.png",
+      "sha256": "aa6652909b5494b94ec116445c49a45e54c3b3cc56cb6f1ce61189a6fb92d6e4",
+      "bytes": 1120940,
+      "width": 1122,
+      "height": 1402,
+      "status": "approved-private-source",
+      "source_group": "astro plot branch approved artwork",
+      "original_filename": "db290a018d5e2ddb.png",
+      "note": "Exact Git blob verified",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/approved-astro/002.png",
+      "sha256": "a3036f4fc1b2501e7e2e6198736025cb975bfc8496423210f0894e5300d4f205",
+      "bytes": 1880402,
+      "width": 1122,
+      "height": 1402,
+      "status": "approved-private-source",
+      "source_group": "astro plot branch approved artwork",
+      "original_filename": "心动惊喜计划少女海报.png",
+      "note": "Exact Git blob verified",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/approved-astro/003.png",
+      "sha256": "4e1601cb109d5d05d87123a1441ee0528fe714a9324d558318696b6d8209ce3a",
+      "bytes": 1541467,
+      "width": 1122,
+      "height": 1402,
+      "status": "approved-private-source",
+      "source_group": "astro plot branch approved artwork",
+      "original_filename": "潮流恋爱测验应用宣传拼图.png",
+      "note": "Exact Git blob verified",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/approved-astro/004.png",
+      "sha256": "e26bc117ad434fdb7e037b4e12d7176163ea8a23a6719d96873ab229a9b930be",
+      "bytes": 1237807,
+      "width": 1122,
+      "height": 1402,
+      "status": "approved-private-source",
+      "source_group": "astro plot branch approved artwork",
+      "original_filename": "粉色系_us_关系应用宣传海报.png",
+      "note": "Exact Git blob verified",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/approved-astro/005.png",
+      "sha256": "14b2369abf96db378054f101ffeed578e5af7afccdb02b8dc6e2b41266367632",
+      "bytes": 2414244,
+      "width": 1122,
+      "height": 1402,
+      "status": "approved-private-source",
+      "source_group": "astro plot branch approved artwork",
+      "original_filename": "粉色霓虹_spill_社交卡片拼贴.png",
+      "note": "Exact Git blob verified",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/approved-astro/006.png",
+      "sha256": "9c9001c9ebc30c09cba89d6688e4240952fe301ad7874c83daffb8cc93e02f79",
+      "bytes": 2177976,
+      "width": 1122,
+      "height": 1402,
+      "status": "approved-private-source",
+      "source_group": "astro plot branch approved artwork",
+      "original_filename": "霓虹心动_crush恋爱心声应用海报.png",
+      "note": "Exact Git blob verified",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/spec-diagrams/001.png",
+      "sha256": "099640d30431c960699e1ec055a7ebad152591f85594ece27b9c0fd92f050ece",
+      "bytes": 47185,
+      "width": 2160,
+      "height": 263,
+      "status": "reference",
+      "source_group": "PLOT product delivery diagrams",
+      "original_filename": "01_core_loop.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/spec-diagrams/002.png",
+      "sha256": "1fd3fea919a77cd137090effda32c072afebb9064864c668fab1dd50197d31f1",
+      "bytes": 155845,
+      "width": 1135,
+      "height": 2520,
+      "status": "reference",
+      "source_group": "PLOT product delivery diagrams",
+      "original_filename": "02_user_flow_guest_to_paid.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/spec-diagrams/003.png",
+      "sha256": "1f6bef04b197f4cd204a00949669b05de4d97c844f69df1413ccd5e07087c3fd",
+      "bytes": 32091,
+      "width": 1980,
+      "height": 176,
+      "status": "reference",
+      "source_group": "PLOT product delivery diagrams",
+      "original_filename": "03_information_architecture.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/spec-diagrams/004.png",
+      "sha256": "a65720864b329bbc7fe8048107aa6cbb628c4d2014e87da477e25088c9136cdd",
+      "bytes": 124964,
+      "width": 1801,
+      "height": 1196,
+      "status": "reference",
+      "source_group": "PLOT product delivery diagrams",
+      "original_filename": "04_functional_architecture.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/spec-diagrams/005.png",
+      "sha256": "27445de60970274d76eabc4f8e308b8a359b37b4adedac85d4b1c6e90d6dbe7f",
+      "bytes": 111957,
+      "width": 1861,
+      "height": 721,
+      "status": "reference",
+      "source_group": "PLOT product delivery diagrams",
+      "original_filename": "05_me_them_us_model.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/spec-diagrams/006.png",
+      "sha256": "da70b8404e32b83449cfb2b35cad59d0f32d6853822ecc1af39923fc1cdcc83e",
+      "bytes": 123284,
+      "width": 1871,
+      "height": 1236,
+      "status": "reference",
+      "source_group": "PLOT product delivery diagrams",
+      "original_filename": "06_evidence_fusion_engine.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/spec-diagrams/007.png",
+      "sha256": "9e170fb5500b7cf79141072a7d14f76591d088edaf2441754a66272760395843",
+      "bytes": 69342,
+      "width": 2340,
+      "height": 312,
+      "status": "reference",
+      "source_group": "PLOT product delivery diagrams",
+      "original_filename": "07_web_ios_entitlement.png",
+      "note": "",
+      "also_found_as": []
+    },
+    {
+      "path": "assets/library/spec-diagrams/008.png",
+      "sha256": "ad790ad2bda684296194a33158ff78b904c0a95670ee4debb439b0e99eaf12c1",
+      "bytes": 50130,
+      "width": 2340,
+      "height": 198,
+      "status": "reference",
+      "source_group": "PLOT product delivery diagrams",
+      "original_filename": "08_retention_progression.png",
+      "note": "",
+      "also_found_as": []
+    }
+  ],
+  "already_on_github": [
+    {
+      "name": "心动惊喜计划少女海报.png",
+      "git_blob_sha": "bf6e7bf812c71c3cacdc9912c7919ce4cb7e7bff",
+      "existing_repo": "minyajing-rgb/astro",
+      "branch": "plot",
+      "existing_path": "products/plot/assets/approved/pink-black-white/心动惊喜计划少女海报.png",
+      "copied_to_plotpublic": [
+        "assets/library/approved-astro/002.png"
+      ]
+    },
+    {
+      "name": "极简粉色恋爱应用海报.png",
+      "git_blob_sha": "2d7761fd183ccf1f309870fed246dc6588c46785",
+      "existing_repo": "minyajing-rgb/astro",
+      "branch": "plot",
+      "existing_path": "products/plot/assets/approved/pink-black-white/极简粉色恋爱应用海报.png",
+      "copied_to_plotpublic": [
+        "assets/library/approved-astro/001.png"
+      ]
+    },
+    {
+      "name": "潮流恋爱测验应用宣传拼图.png",
+      "git_blob_sha": "cf75bd2dbdbecd1ca95c3012d672d20acf023e6c",
+      "existing_repo": "minyajing-rgb/astro",
+      "branch": "plot",
+      "existing_path": "products/plot/assets/approved/pink-black-white/潮流恋爱测验应用宣传拼图.png",
+      "copied_to_plotpublic": [
+        "assets/library/approved-astro/003.png"
+      ]
+    },
+    {
+      "name": "真实洞察_读懂心动.png",
+      "git_blob_sha": "a1e66b71035f0c7aa85ab342d2e18fa27830126d",
+      "existing_repo": "minyajing-rgb/astro",
+      "branch": "plot",
+      "existing_path": "products/plot/assets/approved/pink-black-white/真实洞察_读懂心动.png",
+      "copied_to_plotpublic": [
+        "assets/library/ad-explorations/005.png"
+      ]
+    },
+    {
+      "name": "粉色系_us_关系应用宣传海报.png",
+      "git_blob_sha": "19f616cfb496065a542a4c69fe9cb3baf0293050",
+      "existing_repo": "minyajing-rgb/astro",
+      "branch": "plot",
+      "existing_path": "products/plot/assets/approved/pink-black-white/粉色系_us_关系应用宣传海报.png",
+      "copied_to_plotpublic": [
+        "assets/library/approved-astro/004.png"
+      ]
+    },
+    {
+      "name": "粉色霓虹_spill_社交卡片拼贴.png",
+      "git_blob_sha": "614304d6f4abb1bedf1c07f10cbb40ae68018157",
+      "existing_repo": "minyajing-rgb/astro",
+      "branch": "plot",
+      "existing_path": "products/plot/assets/approved/pink-black-white/粉色霓虹_spill_社交卡片拼贴.png",
+      "copied_to_plotpublic": [
+        "assets/library/approved-astro/005.png"
+      ]
+    },
+    {
+      "name": "霓虹心动_crush恋爱心声应用海报.png",
+      "git_blob_sha": "b6a5724b439c55f7f44a15474374b37fd72b7340",
+      "existing_repo": "minyajing-rgb/astro",
+      "branch": "plot",
+      "existing_path": "products/plot/assets/approved/pink-black-white/霓虹心动_crush恋爱心声应用海报.png",
+      "copied_to_plotpublic": [
+        "assets/library/approved-astro/006.png"
+      ]
+    }
+  ]
+}

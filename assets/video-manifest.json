@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "date": "2026-10-04",
+  "note": "These videos are organized source or review files. They are not uploaded to Meta or published as video ads.",
+  "files": [
+    {
+      "path": "media/videos/source/gemini_generated_video_1a678588.mp4",
+      "status": "source-exploration",
+      "sha256": "f21d1d39479d6f1c530881be6bfd9a53699ee6d45f6aa444521352c6d0997626",
+      "bytes": 5281579
+    },
+    {
+      "path": "media/videos/source/gemini_generated_video_1b9b3a66.mp4",
+      "status": "source-exploration",
+      "sha256": "3a39e61698530a75612fc2517105acf823a2ce456d4cbfe4729fe9adc0ba04a8",
+      "bytes": 3837289
+    },
+    {
+      "path": "media/videos/source/gemini_generated_video_8584456c.mp4",
+      "status": "source-exploration",
+      "sha256": "a4afe2c61e93b1febcabca397b0b0b0608c8e8fedaf216f14202630411e44f9d",
+      "bytes": 4755661
+    },
+    {
+      "path": "media/videos/source/gemini_generated_video_9dd04db9.mp4",
+      "status": "source-exploration",
+      "sha256": "a9d203d4ed32bb9e487bd48bc8d4b5e0782e9479079cc2ff7e90a3a161fb9a64",
+      "bytes": 4951330
+    },
+    {
+      "path": "media/videos/source/gemini_generated_video_b5ca45fa.mp4",
+      "status": "source-exploration",
+      "sha256": "2019843d13e13e43d17fc58d32d250f594dd8c092e0d97c6e218d86493c0f751",
+      "bytes": 4359773
+    },
+    {
+      "path": "media/videos/review-2026-10-04/PLOT_EN_Cover_1080x1920_v1.png",
+      "status": "review-export",
+      "sha256": "dd16fa1e4ca166bcded02b60bb587fc19d02560543035ab5b15e20d24f322f60",
+      "bytes": 1924962
+    },
+    {
+      "path": "media/videos/review-2026-10-04/PLOT_EN_Good_Date_Then_Quiet_9x16_24s_v1.mp4",
+      "status": "review-export",
+      "sha256": "85a7567ed46614359542a64d35c263327c9e51367ecfd6b535636c484b19e12f",
+      "bytes": 7191745
+    },
+    {
+      "path": "media/videos/review-2026-10-04/PLOT_EN_on_screen_text.srt",
+      "status": "review-export",
+      "sha256": "29e30cc3429905e6aa113c6dee76a59c8821d8f87f41405154ff4e4a789e3361",
+      "bytes": 489
+    },
+    {
+      "path": "media/videos/review-2026-10-04/PLOT_ZH_Cover_1080x1920_v1.png",
+      "status": "review-export",
+      "sha256": "959e8fa55e2b339cb61f50aec7fa5653a967aa8dc092fae9b7a47bd4c2282a71",
+      "bytes": 1939102
+    },
+    {
+      "path": "media/videos/review-2026-10-04/PLOT_ZH_Good_Date_Then_Quiet_9x16_24s_v1.mp4",
+      "status": "review-export",
+      "sha256": "058ee67a4068749f414c5d9c7fcb1d67e2bf04720321d44c32fc0ad296ffd095",
+      "bytes": 7285623
+    },
+    {
+      "path": "media/videos/review-2026-10-04/PLOT_ZH_on_screen_text.srt",
+      "status": "review-export",
+      "sha256": "e988ea92fca3b063b9addb8756cc93572b7134564d9f9797e8a4536c2607e9a4",
+      "bytes": 543
+    }
+  ]
+}
